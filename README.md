@@ -3,7 +3,7 @@
 Sebuah sistem gallery gambar berbasis JavaScript yang dirancang untuk menampilkan konten visual secara dinamis, cepat, dan efisien. Project ini mendukung pemuatan gambar dari berbagai folder sekaligus, dilengkapi dengan fitur filter kategori, lazy loading, serta animasi transisi yang halus untuk meningkatkan pengalaman pengguna.
 
 Demo:
-Live Preview - perihidayat.site
+Live Preview - [perihidayat.site](http://perihidayat.site/)
 
 ✨ Overview
 
